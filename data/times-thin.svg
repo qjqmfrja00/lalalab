@@ -1,0 +1,6 @@
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" stroke="currentColor" stroke-width="1.5" >
+    <line x1="1.151" y1="1.151" x2="30.85" y2="30.849"/>
+    <line x1="1.151" y1="30.85" x2="30.849" y2="1.151"/>
+  </g>
+</svg>
